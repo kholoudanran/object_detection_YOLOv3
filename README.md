@@ -2,7 +2,7 @@
 
 This project demonstrates how to perform object detection using YOLOv3 (You Only Look Once) with OpenCV.
 
-Setup
+# Setup
 Clone the repository or download the necessary files to your local machine.
 Ensure you have Python installed on your system.
 
