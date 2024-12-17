@@ -30,4 +30,6 @@ The result is saved as result.jpg and displayed using OpenCV.
 
 # References
 YOLO: Real-Time Object Detection
+YOLOv3 weights: https://github.com/patrick013/Object-Detection---Yolov3/blob/master/model/yolov3.weights
 COCO Dataset
+YOLO3 (Detection, Training, and Evaluation), https://github.com/experiencor/keras-yolo3
