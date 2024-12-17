@@ -21,7 +21,7 @@ Update the file paths in the script to match the location of your YOLOv3 files a
 Run the script:
 python object_detection_yolov3.py
 
-Description
+# Description
 The script loads the YOLOv3 model with the pre-trained weights and configuration.
 It reads the class names from the coco.names file.
 An image (test_img.jpg) is loaded, resized, and processed for object detection.
